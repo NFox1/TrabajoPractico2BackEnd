@@ -46,8 +46,7 @@
               "RelativeToolTip": "ArticulosAPI\\Controllers\\ArticulosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T22:56:25.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T22:56:25.809Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "ArticulosAPI\\Migrations\\20221020153502_AgregarArticulosDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T22:56:25.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T22:56:25.848Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "ArticulosAPI\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T22:56:25.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T22:56:25.85Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "ArticulosAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T22:56:25.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T22:56:25.853Z"
             },
             {
               "$type": "Document",
@@ -94,9 +90,9 @@
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ArticulosAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\appsettings.json",
-              "RelativeToolTip": "ArticulosAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\appsettings.json*",
+              "RelativeToolTip": "ArticulosAPI\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-10T22:56:25.856Z",
               "EditorCaption": ""
@@ -111,8 +107,7 @@
               "RelativeToolTip": "ArticulosAPI\\Modelos\\Articulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T22:56:25.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T22:56:25.859Z"
             }
           ]
         }
