@@ -2,7 +2,7 @@
 
 namespace ArticulosAPI.Repositorios
 {
-    public class IRepositorioArticulo
+    public interface IRepositorioArticulo
     {
         IEnumerable<Articulo> ObtenerTodos();
         Articulo ObtenerPorId(int id);

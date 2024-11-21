@@ -532,3 +532,4 @@ C:\Users\Juan\Documents\GitHub\TrabajoPractico2BackEnd\ArticulosAPI\obj\Debug\ne
 C:\Users\Juan\Documents\GitHub\TrabajoPractico2BackEnd\ArticulosAPI\obj\Debug\net6.0\ArticulosAPI.genruntimeconfig.cache
 C:\Users\Juan\Documents\GitHub\TrabajoPractico2BackEnd\ArticulosAPI\obj\Debug\net6.0\ref\ArticulosAPI.dll
 C:\Users\Juan\Documents\GitHub\TrabajoPractico2BackEnd\ArticulosAPI\obj\Debug\net6.0\ArticulosAPI.sourcelink.json
+C:\Users\Juan\Documents\GitHub\TrabajoPractico2BackEnd\ArticulosAPI\bin\Debug\net6.0\AutoMapper.dll
