@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\ArticulosAPI.csproj": {}
+    "C:\\Users\\sarmi\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\ArticulosAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\ArticulosAPI.csproj": {
+    "C:\\Users\\sarmi\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\ArticulosAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\ArticulosAPI.csproj",
+        "projectUniqueName": "C:\\Users\\sarmi\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\ArticulosAPI.csproj",
         "projectName": "ArticulosAPI",
-        "projectPath": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\ArticulosAPI.csproj",
-        "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\obj\\",
+        "projectPath": "C:\\Users\\sarmi\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\ArticulosAPI.csproj",
+        "packagesPath": "C:\\Users\\sarmi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sarmi\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\sarmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

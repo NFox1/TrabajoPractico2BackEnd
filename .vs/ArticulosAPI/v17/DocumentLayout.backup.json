@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\repositorios\\repositorioarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\repositorios\\repositorioarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\repositorios\\irepositorioarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\repositorios\\irepositorioarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\modelos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\modelos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\dto\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\dto\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\mappingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +35,8 @@
       "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\repositorios\\irepositorioarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\repositorios\\irepositorioarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\repositorios\\repositorioarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\repositorios\\repositorioarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\migrations\\20221020153502_agregararticulosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\migrations\\20221020153502_agregararticulosdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\dto\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\dto\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\modelos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\modelos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|solutionrelative:articulosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07A64E16-BED7-4A82-B425-2F64ADA5749C}|ArticulosAPI\\ArticulosAPI.csproj|c:\\users\\juan\\documents\\github\\trabajopractico2backend\\articulosapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,13 +58,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "RepositorioArticulo.cs",
               "DocumentMoniker": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\Repositorios\\RepositorioArticulo.cs",
               "RelativeDocumentMoniker": "ArticulosAPI\\Repositorios\\RepositorioArticulo.cs",
               "ToolTip": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\Repositorios\\RepositorioArticulo.cs",
               "RelativeToolTip": "ArticulosAPI\\Repositorios\\RepositorioArticulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T01:15:08.711Z",
               "EditorCaption": ""
@@ -72,19 +72,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MappingConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\MappingConfiguration.cs",
-              "RelativeDocumentMoniker": "ArticulosAPI\\MappingConfiguration.cs",
-              "ToolTip": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\MappingConfiguration.cs",
-              "RelativeToolTip": "ArticulosAPI\\MappingConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T05:55:42.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "IRepositorioArticulo.cs",
               "DocumentMoniker": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\Repositorios\\IRepositorioArticulo.cs",
               "RelativeDocumentMoniker": "ArticulosAPI\\Repositorios\\IRepositorioArticulo.cs",
@@ -97,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ArticuloDto.cs",
               "DocumentMoniker": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\Dto\\ArticuloDto.cs",
               "RelativeDocumentMoniker": "ArticulosAPI\\Dto\\ArticuloDto.cs",
@@ -110,20 +97,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ArticulosController.cs",
               "DocumentMoniker": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\Controllers\\ArticulosController.cs",
               "RelativeDocumentMoniker": "ArticulosAPI\\Controllers\\ArticulosController.cs",
               "ToolTip": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\Controllers\\ArticulosController.cs",
               "RelativeToolTip": "ArticulosAPI\\Controllers\\ArticulosController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwFAAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T22:56:25.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "20221020153502_AgregarArticulosDB.cs",
               "DocumentMoniker": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\Migrations\\20221020153502_AgregarArticulosDB.cs",
               "RelativeDocumentMoniker": "ArticulosAPI\\Migrations\\20221020153502_AgregarArticulosDB.cs",
@@ -144,11 +131,12 @@
               "RelativeToolTip": "ArticulosAPI\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T22:56:25.85Z"
+              "WhenOpened": "2024-10-10T22:56:25.85Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\Program.cs",
               "RelativeDocumentMoniker": "ArticulosAPI\\Program.cs",
@@ -161,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ArticulosAPI\\appsettings.json",
@@ -174,15 +162,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Articulo.cs",
               "DocumentMoniker": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\Modelos\\Articulo.cs",
               "RelativeDocumentMoniker": "ArticulosAPI\\Modelos\\Articulo.cs",
               "ToolTip": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\Modelos\\Articulo.cs",
               "RelativeToolTip": "ArticulosAPI\\Modelos\\Articulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T22:56:25.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MappingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\MappingConfiguration.cs",
+              "RelativeDocumentMoniker": "ArticulosAPI\\MappingConfiguration.cs",
+              "ToolTip": "C:\\Users\\Juan\\Documents\\GitHub\\TrabajoPractico2BackEnd\\ArticulosAPI\\MappingConfiguration.cs",
+              "RelativeToolTip": "ArticulosAPI\\MappingConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:55:42.878Z",
               "EditorCaption": ""
             }
           ]

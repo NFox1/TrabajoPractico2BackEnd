@@ -1,24 +1,25 @@
-﻿using ArticulosAPI.Modelos;
+﻿using ArticulosAPI.Data;
+using ArticulosAPI.Modelos;
 
 namespace ArticulosAPI.Repositorios
 {
     public class RepositorioArticulo : IRepositorioArticulo
     {
-        private readonly List<Articulo> _articulos;
+        private readonly ApplicationDbContext _context;
 
-        public RepositorioArticulo()
+        public RepositorioArticulo(ApplicationDbContext context)
         {
-            _articulos = new List<Articulo>();
+            _context = context;
         }
 
         public IEnumerable<Articulo> ObtenerTodos()
         {
-            return _articulos;
+            return _context.Articulos.ToList();
         }
 
         public Articulo ObtenerPorId(int id)
         {
-            var articulo = _articulos.FirstOrDefault(a => a.Id == id);
+            var articulo = _context.Articulos.Find(id);
             if (articulo == null)
             {
                 throw new KeyNotFoundException($"No se encontró un artículo con el ID {id}");
@@ -28,18 +29,14 @@ namespace ArticulosAPI.Repositorios
 
         public void Agregar(Articulo articulo)
         {
-            _articulos.Add(articulo);
+            _context.Articulos.Add(articulo);
+            _context.SaveChanges();
         }
 
         public void Actualizar(Articulo articulo)
         {
-            var articuloExistente = ObtenerPorId(articulo.Id);
-            if (articuloExistente != null)
-            {
-                articuloExistente.Descripcion = articulo.Descripcion;
-                articuloExistente.Marca = articulo.Marca;
-                articuloExistente.Cantidad = articulo.Cantidad;
-            }
+            _context.Articulos.Update(articulo);
+            _context.SaveChanges();
         }
 
         public void Eliminar(int id)
@@ -47,7 +44,8 @@ namespace ArticulosAPI.Repositorios
             var articulo = ObtenerPorId(id);
             if (articulo != null)
             {
-                _articulos.Remove(articulo);
+                _context.Articulos.Remove(articulo);
+                _context.SaveChanges();
             }
         }
     }
