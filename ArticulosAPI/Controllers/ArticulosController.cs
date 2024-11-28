@@ -8,6 +8,8 @@ using Microsoft.EntityFrameworkCore;
 using ArticulosAPI.Data;
 using ArticulosAPI.Modelos;
 using ArticulosAPI.Repositorios;
+using AutoMapper;
+using ArticulosAPI.Dto;
 
 namespace ArticulosAPI.Controllers
 {
@@ -16,28 +18,32 @@ namespace ArticulosAPI.Controllers
     public class ArticulosController : ControllerBase
     {
         private readonly IRepositorioArticulo _repositorio;
+        private readonly IMapper _mapper;
 
-        public ArticulosController(IRepositorioArticulo repositorio)
+        public ArticulosController(IRepositorioArticulo repositorio, IMapper mapper)
         {
             _repositorio = repositorio;
+            _mapper = mapper;
         }
 
         // GET: api/Articulos
         [HttpGet]
-        public ActionResult<IEnumerable<Articulo>> GetArticulos()
+        public ActionResult<IEnumerable<ArticuloDto>> GetArticulos()
         {
             var articulos = _repositorio.ObtenerTodos();
-            return Ok(articulos);
+            var articuloDtos = _mapper.Map<IEnumerable<ArticuloDto>>(articulos);
+            return Ok(articuloDtos);
         }
 
         // GET: api/Articulos/5
         [HttpGet("{id}")]
-        public ActionResult<Articulo> GetArticulo(int id)
+        public ActionResult<ArticuloDto> GetArticulo(int id)
         {
             try
             {
                 var articulo = _repositorio.ObtenerPorId(id);
-                return Ok(articulo);
+                var articuloDto = _mapper.Map<ArticuloDto>(articulo);
+                return Ok(articuloDto);
             }
             catch (KeyNotFoundException)
             {
@@ -47,15 +53,16 @@ namespace ArticulosAPI.Controllers
 
         // PUT: api/Articulos/5
         [HttpPut("{id}")]
-        public IActionResult PutArticulo(int id, Articulo articulo)
+        public IActionResult PutArticulo(int id, ArticuloDto articuloDto)
         {
-            if (id != articulo.Id)
+            if (id != articuloDto.Id)
             {
                 return BadRequest();
             }
 
             try
             {
+                var articulo = _mapper.Map<Articulo>(articuloDto);
                 _repositorio.Actualizar(articulo);
                 return NoContent();
             }
@@ -67,10 +74,11 @@ namespace ArticulosAPI.Controllers
 
         // POST: api/Articulos
         [HttpPost]
-        public ActionResult<Articulo> PostArticulo(Articulo articulo)
+        public ActionResult<ArticuloDto> PostArticulo(ArticuloDto articuloDto)
         {
+            var articulo = _mapper.Map<Articulo>(articuloDto);
             _repositorio.Agregar(articulo);
-            return CreatedAtAction("GetArticulo", new { id = articulo.Id }, articulo);
+            return CreatedAtAction("GetArticulo", new { id = articulo.Id }, articuloDto);
         }
 
         // DELETE: api/Articulos/5
